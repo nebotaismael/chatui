@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "129582517028",
+    "project_id": "training237-1cc81",
+    "storage_bucket": "training237-1cc81.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:129582517028:android:a79a30f841d755e687c1b1",
+        "android_client_info": {
+          "package_name": "com.example.chatui"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDbBfdSJpuRFXQHGYjsLdqp8HXEKk-VzWc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
